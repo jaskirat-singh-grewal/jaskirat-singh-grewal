@@ -68,11 +68,5 @@
 
 ---
 
-### 🏆 Accomplishments
-
-- 🥇 **1st Place** — Programming Contest, University of Winnipeg
-- 🤖 **ICPC** — ACM International Collegiate Programming Contest (2018, 2019)
-
----
 
 > *"To work with passion and help others to make an impact."*
