@@ -2,54 +2,77 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4aeb42&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Jaskirat+Grewal" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Cloud Solutions Developer | Software Engineer | Problem Solver</h3>
+<h3 align="center">Cloud Solutions Developer | AI & Agent Systems | Problem Solver</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jaskirat-singh-grewal-ta/">LinkedIn</a> •
   <a href="mailto:jas11kirat@gmail.com">Email</a> •
-  <a href="https://jaskirat-singh-grewal.github.io/graph_project/">Portfolio Projects</a>
+  <a href="https://jaskirat-singh-grewal.github.io/">Portfolio</a> •
+  <a href="https://portfolio.megatrone.tech/">Projects</a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 💻 I’m a passionate **Full-Stack Developer** and **Data Enthusiast**
-- 🌱 Currently exploring advanced **algorithms**, **machine learning**, and **cloud solutions**
-- 💻 Cloud Solutions Developer with strong backend and algorithmic development background
-- 🏆 **1st place** — Programming Contest at University of Winnipeg  
-- 🤖 Competitive programmer — **ICPC** participant (2018, 2019)
-- 🎓 B.Sc. (Hons) in Applied Computer Science & B.Sc. in Mathematics  
-- 🔍 Passionate about clean code, optimized systems, and continuous learning
+- 🎓 **B.Sc. (Hons) in Applied Computer Science** & **B.Sc. in Mathematics** — University of Winnipeg
+- 💻 Cloud Solutions Developer with experience in computational electromagnetics, parallel execution systems, and 3D visualization
+- 🤖 Building autonomous multi-agent systems with persistent memory architectures (graph + vector databases)
+- 🏆 **1st place** — UofW Programming Contest | **ICPC** participant (2018, 2019)
 
 ---
 
-### 💡 Projects
+### 💡 Featured Projects
 
-- 🔹 **Path Visualizer**: Interactive grid that visualizes Dijkstra’s algorithm and BFS  
-  [Live Demo](https://jaskirat-singh-grewal.github.io/graph_project/)
+**Hermes Agent System** — `Python` `LadybugDB` `ChromaDB` `MCP` `Multi-Agent`
+- Production-ready multi-agent system on a dedicated VPS with autonomous workflows
+- Dual-database persistent memory: property graph (LadybugDB) + semantic vectors (ChromaDB)
+- Kanban-driven task orchestration, automated health checks, and structured memory cleanup
+- [Architecture Details](https://portfolio.megatrone.tech/)
 
-- 🔹 **Harvest App**: Calculates field harvesting time based on machine specs  
-  [Live Demo](https://jaskirat-singh-grewal.github.io/harvest-app/)
+**Memory Visualizer** — `WebGL` `Three.js` `D3.js` `LadybugDB`
+- Interactive 3D knowledge graph rendering the agent's persistent memory as a navigable force-directed graph
+- Node type filtering, community detection, and real-time graph traversal
+- [Live Demo](https://www.megatrone.tech/memory/)
 
-- 🔹 **Weather App**: Shows live weather using external APIs  
-  [Live Demo](https://jaskirat-singh-grewal.github.io/weather_app/)
+**Service Architecture (CSSB GenAI)** — `System Architecture` `GenAI` `Python` `Mermaid.js`
+- Theoretical GenAI-driven support system for the Civil Service Superannuation Board
+- Full documentation: business case, technical specs, estimations, and architectural flowcharts
+- Python PoC to validate AI core logic
+- [Repo](https://github.com/jaskirat-singh-grewal/mb-gov-citizen-service-architecture)
 
-- 🔹 **Email Automation Script**: Sends emails via Python using data from Excel/JSON
+**Path Visualizer** — `React.js` `JavaScript` `SCSS` `Bootstrap`
+- Interactive grid visualizing Dijkstra's Algorithm with customizable obstacles
+- [Live Demo](https://jaskirat-singh-grewal.github.io/graph_project/)
 
 ---
 
 ### 🧰 Tech Stack
 
-- **Languages**: Python, C++, Java, JavaScript, SQL, C#
-- **Frameworks**: React.js, Django, Angular, Node.js
-- **Tools**: Docker, Git, Kubernetes, Anaconda
-- **Data**: NumPy, pandas, TensorFlow, PostgreSQL, MongoDB
-- **Cloud**: AWS (S3, ECR, IAM, Batch), Microsoft Azure
+| Category | Technologies |
+|----------|-------------|
+| **AI & Agents** | LangGraph, LangChain, RAG Workflows, Model Context Protocol (MCP), Multi-Agent Orchestration, Prompt Engineering, Agent Memory Systems |
+| **Languages** | Python, JavaScript/TypeScript, Java, SQL, C++, C#, PineScript |
+| **Cloud & DevOps** | AWS (EC2, S3, IAM, Batch, ECR), Azure, Docker, Kubernetes, GitLab CI/CD |
+| **Web & APIs** | React.js, Redux, Django, Node.js, Express.js, RESTful APIs, Three.js |
+| **Data & DBs** | LadybugDB (property graph), PostgreSQL, MongoDB, ChromaDB, NumPy, pandas, Matplotlib, ECharts |
+| **Currently Exploring** | WebGPU, GPU Compute in browser |
 
 ---
 
-### 🌱 Motto
+### 📜 Most Recent Professional Development
 
-> “To work with passion and help others to make an impact.”
+- ✅ **Introduction to LangGraph** — LangChain Academy
+- 🔄 **IBM RAG and Agentic AI Professional Certificate** — Coursera (In Progress)
+- ✅ **Your First WebGPU App** — Google Codelabs
 
+---
+
+### 🏆 Accomplishments
+
+- 🥇 **1st Place** — Programming Contest, University of Winnipeg
+- 🤖 **ICPC** — ACM International Collegiate Programming Contest (2018, 2019)
+
+---
+
+> *"To work with passion and help others to make an impact."*
