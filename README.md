@@ -7,18 +7,25 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jaskirat-singh-grewal-ta/">LinkedIn</a> •
   <a href="mailto:jas11kirat@gmail.com">Email</a> •
-  <a href="https://jaskirat-singh-grewal.github.io/">Portfolio</a> •
-  <a href="https://portfolio.megatrone.tech/">Projects</a>
+  <a href="https://jaskirat-singh-grewal.github.io/">Portfolio Website</a> •
+  <a href="https://portfolio.megatrone.tech/">Projects & Architecture</a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 **B.Sc. (Hons) in Applied Computer Science** & **B.Sc. in Mathematics** — University of Winnipeg
-- 💻 Cloud Solutions Developer with experience in computational electromagnetics, parallel execution systems, and 3D visualization
-- 🤖 Building autonomous multi-agent systems with persistent memory architectures (graph + vector databases)
-- 🏆 **1st place** — UofW Programming Contest | **ICPC** participant (2018, 2019)
+I build systems that think. Multi-agent architectures with persistent memory — property graphs for structure, vector databases for meaning, and autonomous workflows that don't wait for permission.
+
+Previously engineered parallel computation systems for electromagnetic simulations at CEMWorks — distributing workloads across EC2 clusters, building 3D visualization tools in the browser, and managing containerized infrastructure at scale.
+
+B.Sc. (Hons) in Applied Computer Science & B.Sc. in Mathematics — University of Winnipeg. ICPC competitor. First place in programming contest. The math background shows up in the architecture — everything is a system, every system has a structure worth mapping.
+
+---
+
+### 🌐 Portfolio
+
+**[portfolio.megatrone.tech](https://portfolio.megatrone.tech/)** — Living archive of projects, system architectures, and technical deep-dives. Case studies on the agent systems, infrastructure decisions, and design philosophy behind everything I build.
 
 ---
 
@@ -67,6 +74,5 @@
 - ✅ **Your First WebGPU App** — Google Codelabs
 
 ---
-
 
 > *"To work with passion and help others to make an impact."*
