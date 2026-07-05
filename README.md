@@ -7,8 +7,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jaskirat-singh-grewal-ta/">LinkedIn</a> •
   <a href="mailto:jas11kirat@gmail.com">Email</a> •
-  <a href="https://jaskirat-singh-grewal.github.io/">Portfolio Website</a> •
-  <a href="https://portfolio.megatrone.tech/">Projects & Architecture</a>
+  <a href="https://portfolio.megatrone.tech/">Portfolio Website</a> •
+  <a href="https://jaskirat-singh-grewal.github.io/">Old Portfolio</a>
 </p>
 
 ---
